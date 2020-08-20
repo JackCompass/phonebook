@@ -1,11 +1,13 @@
 # Project data
 material.db
+.gitignore
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
 *$py.class
 *.pyc
+db_entry.txt
 
 # C extensions
 *.so
